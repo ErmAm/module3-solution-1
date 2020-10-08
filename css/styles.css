@@ -1,0 +1,69 @@
+
+
+/*headerio meniu*/
+
+.navbar-header {
+	/*background-color: lightgrey;*/
+	border-radius: 0;
+	border: 0;
+}
+
+
+.navbar {
+  background: pink;
+  color: #5b5656;
+  width: 100%;
+  border-radius: 0;
+}
+
+#collapsable-nav {
+	background-color: cyan;
+}
+
+/*.navbar-floating .navbar-brand {
+  color: #810000;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+*/
+
+.navtext-color li{
+	color: blue;
+}
+
+#company-name {
+	font-size: 1em;
+	position: relative;
+	left: 10px;
+	bottom: 15px
+}
+
+/* Pridedu nav baro visokių reikalų*/
+#nav-list {
+	margin-top: 10px;
+}
+
+#nav-list a{
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+
+#nav-list a span {
+	font-size: 1.8em;
+}
+
+
+.main-text{
+	background-color: lightgrey;
+}
+
+
+/*.button {
+	background-color: pink;
+}*/
+
+
+
